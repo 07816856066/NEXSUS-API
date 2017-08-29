@@ -1,24 +1,17 @@
-# [BDManager v2.0](https://t.me/BeyondTeam)
-An advanced administration bot based on BDMessenger
+# [NEXSUS v1](https://t.me/DEVASL)
 
-[![Bot API](http://img.shields.io/badge/Bot%20API-v3.4-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
+[![Bot API]()](https://core.telegram.org/bots/api)
+[![https://t.me/DEVASL]()](https://t.me/DEVASL)
 
 * * *
-
-## Configure
-
-* Put Your Bot `TOKEN` At Line `3` in bot.lua
-* Put Your `Telegram ID` At Line `6 & 189` in bot.lua
-* Put Your `Channel ID` At Line `5` in bot.lua
 
 # Installation
 
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDManager.git
-cd BDManager
+git clone https://github.com/DEVASL/NEXSUS-API.git
+cd NEXSUS-API
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
@@ -33,34 +26,25 @@ tmux
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/DEVASL/NEXSUS-API.git && cd NEXSUS-API && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
+## Configure
+
+* Put Your Bot `TOKEN` At Line `3` in bot.lua
+* Put Your `Telegram ID` At Line `6 & 189` in bot.lua
+* Put Your `Channel ID` At Line `5` in bot.lua
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
-
-# Special thanks to
-
-`Beyond Team Members`
+More information [DEVASL CHAT](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
 
 * * *
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
+[SoLiD](https://github.com/DEVASL) ([Telegram](https://t.me/PHPLUA))
 
-[MAKAN](https://github.com/makanj) ([Telegram](https://t.me/MAKAN))
+### Telegram Channel:
 
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
-
-[TheNIS](https://t.me/bypa3r)
-
-### Our Telegram Channel:
-
-[@BeyondTeam](https://t.me/BeyondTeam)
-
-### Our Forum:
-
-[Beyond Team Forum](https://Beyond-Dev.ir)
+[@DEVASL TEAM](https://t.me/DEVASL)
